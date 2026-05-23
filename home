@@ -1,0 +1,9 @@
+service_bazzar/
+│
+├── index.html
+├── blog/
+│   ├── home-relocation-jaipur.html
+│   ├── office-shifting.html
+│   └── packers-movers-near-me.html
+│
+├── images/
